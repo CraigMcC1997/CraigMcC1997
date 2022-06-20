@@ -4,27 +4,17 @@
 
 ## Graduate Software Engineer
 
----
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Craig%20McCorrisken-blue)](https://www.linkedin.com/in/craig-mccorrisken)
-
 ---
-<!--uncomment when finished 
+
 ## Certifications :scroll:
-- AWS Cloud Practitioner
-- IBM Full Stack Cloud Developer
-- Google Fundamentals of Digital Marketing
--->
+- 1st Class Honours Graduate of Computer Game Technologies
+- C Programming for Embedded Systems - Doulos
+- Android Training - Opersys
 
 ## About me :rocket:
-- Currently working at Microsoft as a Cloud Advocate creating engaging material for the developer community
-- Previously worked at IBM
-- Co-Host of the [Tech Jam podcast](https://techjam.dev) - a podcast by devs for devs
-- Heavily contributed to the [Eclipse Codewind](https://github.com/eclipse/codewind-installer) open source initiative as a Node.js and Go developer
-- Always on the lookout for new open source projects to get involved in
+- Currently working at ARM as a Graduate GPU Software Engineer
+- Previously a student of Computer Games Technology @ UWS Paisley
 
-<!--uncomment when finished 
-## Stats :chart_with_upwards_trend:
-<img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
--->
+## Current Projects
+- TBC
