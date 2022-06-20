@@ -8,14 +8,14 @@
 [![Github.io](https://img.shields.io/badge/github.io-Craig%20McCorrisken-green)](https://craigmccorrisken.github.io)
 ---
 
+## About me :rocket:
+- Currently working at ARM as a Graduate GPU Software Engineer
+- Previously a student of Computer Games Technology @ UWS Paisley
+
 ## Certifications :scroll:
 - 1st Class Honours Graduate of Computer Game Technologies
 - C Programming for Embedded Systems - Doulos
 - Android Training - Opersys
-
-## About me :rocket:
-- Currently working at ARM as a Graduate GPU Software Engineer
-- Previously a student of Computer Games Technology @ UWS Paisley
 
 ## Current Projects
 - Wordle Guesser - Python project
