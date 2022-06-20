@@ -4,8 +4,8 @@
 
 ## Graduate Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Craig McC)](https://www.linkedin.com/in/craig-mccorrisken)
-[![Github.io](https://img.shields.io/badge/github)](https://craigmccorrisken.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Craig%20McCorrisken)](https://www.linkedin.com/in/craig-mccorrisken)
+[![Github.io](https://img.shields.io/badge/github-Craig%20McCorrisken)](https://craigmccorrisken.github.io)
 ---
 
 ## Certifications :scroll:
