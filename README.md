@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Craig%20McCorrisken-blue)](https://www.linkedin.com/in/craig-mccorrisken)
 [![Github.io](https://img.shields.io/badge/github-CraigMcC1997)](https://craigmccorrisken.github.io)
--- website --
 ---
 
 ## Certifications :scroll:
