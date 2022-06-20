@@ -1,16 +1,30 @@
-### Hi there 👋
+<!--uncomment when header is made
+[![Header](https://github.com/liamchampton/liamchampton/blob/master/github-profile-banner.jpg "Header")](https://techjam.dev/)
+-->
 
-<!--
-**CraigMcC1997/CraigMcC1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Graduate Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Craig%20McCorrisken-blue)](https://www.linkedin.com/in/craig-mccorrisken)
+
+---
+<!--uncomment when finished 
+## Certifications :scroll:
+- AWS Cloud Practitioner
+- IBM Full Stack Cloud Developer
+- Google Fundamentals of Digital Marketing
+-->
+
+## About me :rocket:
+- Currently working at Microsoft as a Cloud Advocate creating engaging material for the developer community
+- Previously worked at IBM
+- Co-Host of the [Tech Jam podcast](https://techjam.dev) - a podcast by devs for devs
+- Heavily contributed to the [Eclipse Codewind](https://github.com/eclipse/codewind-installer) open source initiative as a Node.js and Go developer
+- Always on the lookout for new open source projects to get involved in
+
+<!--uncomment when finished 
+## Stats :chart_with_upwards_trend:
+<img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
 -->
