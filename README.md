@@ -1,6 +1,4 @@
-<!--uncomment when header is made
-[![Header](https://github.com/liamchampton/liamchampton/ "Header")]
--->
+[![Header](https://github.com/CraigMcC1997/CraigMcC1997/GitHubHeader.jpg "Header")
 
 ## Graduate Software Engineer
 
