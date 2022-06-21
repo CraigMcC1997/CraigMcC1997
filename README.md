@@ -1,5 +1,5 @@
 <!--uncomment when header is made
-[![Header](https://github.com/liamchampton/liamchampton/blob/master/github-profile-banner.jpg "Header")](https://techjam.dev/)
+[![Header](https://github.com/liamchampton/liamchampton/ "Header")]
 -->
 
 ## Graduate Software Engineer
