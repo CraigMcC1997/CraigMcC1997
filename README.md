@@ -1,4 +1,4 @@
-[![Header](https://github.com/CraigMcC1997/CraigMcC1997/GitHubHeader.jpg "Header")
+[![Header](https://github.com/CraigMcC1997/CraigMcC1997/GitHubHeader.jpg "Header")]
 
 ## Graduate Software Engineer
 
