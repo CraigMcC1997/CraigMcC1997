@@ -9,7 +9,8 @@
 ## About me :rocket:
 - Currently working at ARM as a Graduate GPU Software Engineer
 - Previously a student of Computer Games Technology @ UWS Paisley
-- Awarded Membership Prize for Best Final Year Overall Performance by the British Computer Society in Jan 2020
+- Achieved the British Computer Society Membership Prize for Best Final Year Overall Performance 2019-2020
+- Finalist in the ScotSoft Young Software Engineer Awards 2019-2020
 
 ## Certifications :scroll:
 - 1st Class Honours Graduate of Computer Game Technologies
