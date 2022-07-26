@@ -18,10 +18,6 @@
 - Android Training - Opersys
 
 ## Current Projects
-- Wordle Guesser - Python project
-- Virtual CV - HTML
-- Updating website - HTML
-- Tower Game - Unity/C#
 - Subtitle System - C++
 
 [![Craig McCorrisken's github stats](https://github-readme-stats.vercel.app/api?username=CraigMcC1997&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
