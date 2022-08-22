@@ -19,5 +19,7 @@
 
 ## Current Projects
 - Subtitle System - C++
+- simple SDL2 windower project
+- Knight Times 2
 
 [![Craig McCorrisken's github stats](https://github-readme-stats.vercel.app/api?username=CraigMcC1997&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
