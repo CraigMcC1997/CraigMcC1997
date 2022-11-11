@@ -7,8 +7,8 @@
 ---
 
 ## About me :rocket:
-- Currently working at ARM as a Graduate GPU Software Engineer
-- Previously a student of Computer Games Technology @ UWS Paisley
+- Currently working as a Graduate GPU Software Engineer
+- Previously a student of Computer Games Technology
 - Achieved the British Computer Society Membership Prize for Best Final Year Overall Performance 2019-2020
 - Finalist in the ScotSoft Young Software Engineer Awards 2019-2020
 
