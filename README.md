@@ -18,8 +18,8 @@
 - Android Training - Opersys
 
 ## Current Projects
-- Subtitle System - C++
-- simple SDL2 windower project - C++
+- Mini Games Project - C++
 - Knight Times 2 - C#, Unity
+- Simple Golf Game - C#, Unity
 
 [![Craig McCorrisken's github stats](https://github-readme-stats.vercel.app/api?username=CraigMcC1997&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
