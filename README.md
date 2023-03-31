@@ -1,6 +1,6 @@
 ![Header](https://github.com/CraigMcC1997/CraigMcC1997/blob/main/GitHubHeader.jpg "Header")
 
-## Graduate Software Engineer
+## Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Craig%20McCorrisken-blue)](https://www.linkedin.com/in/craig-mccorrisken)
 [![My Website](https://img.shields.io/badge/github.io-Craig%20McCorrisken-green)](https://craigmcc1997.github.io/portfolio/)
