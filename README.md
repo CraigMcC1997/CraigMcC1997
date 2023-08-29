@@ -17,8 +17,8 @@
 - C Programming for Embedded Systems - Doulos
 - Android Training - Opersys
 
-## Current Projects
-- Mini Games Project - C++
+## Current Projects :open_file_folder:
+- Monthly Money Management Tracker - Python
 - Knight Times 2 - C#, Unity
 - Simple Golf Game - C#, Unity
 
