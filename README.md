@@ -7,19 +7,18 @@
 ---
 
 ## About me :rocket:
-- Previously working as a GPU Software Engineer
-- Previously a student of Computer Games Technology
-- Achieved the British Computer Society Membership Prize for Best Final Year Overall Performance 2019-2020
+- Currently: Indie Dev
+- Previously: Working as an embedded GPU Software Engineer
+- Computer Games Technology Graduate
 - Finalist in the ScotSoft Young Software Engineer Awards 2019-2020
 
 ## Certifications :scroll:
-- 1st Class Honours Graduate of Computer Game Technologies
+- 1st Class Honours Graduate - Computer Game Technologies
 - C Programming for Embedded Systems - Doulos
 - Android Training - Opersys
 
 ## Current Projects :open_file_folder:
-- Monthly Money Management Tracker - Python
-- Knight Times 2 - C#, Unity
 - Simple Golf Game - C#, Unity
+- Monthly Money Management Tracker - Python
 
 [![Craig McCorrisken's github stats](https://github-readme-stats.vercel.app/api?username=CraigMcC1997&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
